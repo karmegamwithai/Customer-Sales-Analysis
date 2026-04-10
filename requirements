@@ -1,0 +1,16 @@
+🎯 Project: Customer Sales Analysis
+Analyze customer purchasing patterns, identify top customers, and create a comprehensive sales performance dashboard
+
+🛠️ Technical Requirements:
+        Use pandas for all data manipulation
+        Create at least 3 different types of aggregations
+        Implement data merging/joining
+        Use pivot tables for summarization
+        Create professional visualizations
+
+🤔 Analysis Questions:
+        Who are our most valuable customers?
+        What products sell best together?
+        Which regions have highest sales?
+        What are the seasonal trends?
+        How can we improve customer retention?
